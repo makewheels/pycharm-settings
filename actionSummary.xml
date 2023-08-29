@@ -1,0 +1,43 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="2" l="1693320567297" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2" l="1693320715864" />
+    </e>
+    <e n="EditorDelete">
+      <i c="1" l="1693320716298" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1693320569779" />
+    </e>
+    <e n="PyRunFileInConsole">
+      <i c="1" l="1693320665944" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1693320719274" />
+    </e>
+    <e n="ShowSettings">
+      <i c="4" l="1693320726533" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1693320360378" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1693320579482" />
+    </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="1" l="1693320641986" />
+    </e>
+    <e n="com.jetbrains.python.console.PydevConsoleRunnerImpl$6">
+      <i c="1" l="1693320674786" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="1" l="1693320641989" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$createPopup$3">
+      <i c="1" l="1693320582246" />
+    </e>
+  </component>
+</application>
