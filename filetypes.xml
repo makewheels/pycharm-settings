@@ -4,6 +4,10 @@
     <extensionMap>
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
+      <mapping ext="xlsx" type="MyNativeFile" />
+      <mapping ext="xls" type="MyNativeFile" />
+      <removed_mapping ext="xlsx" type="Native" />
+      <removed_mapping ext="xls" type="Native" />
     </extensionMap>
   </component>
 </application>
